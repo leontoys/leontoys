@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Liyon SV, a SAP Full Stack Developer based in NSW. Here's a bit about me:
+I'm a SAP Full Stack Developer based in NSW. Here's a bit about me:
 
 - 🔭 I’m currently working on enhancing my skills in UI5, Fiori, and JavaScript-ES6+.
 - 🌱 I’m currently learning advanced techniques in ABAP RESTful Application Programming Model (RAP) and SAP Cloud Platform.
