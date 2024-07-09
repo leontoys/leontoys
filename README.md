@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!
-**leontoys/leontoys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Liyon SV, a SAP Full Stack Developer based in Parramatta, NSW. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing my skills in UI5, Fiori, and JavaScript-ES6+.
+- 🌱 I’m currently learning advanced techniques in ABAP RESTful Application Programming Model (RAP) and SAP Cloud Platform.
+- 👯 I’m looking to collaborate on projects related to SAP development and front-end technologies.
+- 💬 Ask me about SAP development, UI5, Fiori, ABAP, and anything related to SAP modules like SD, MM, PPM, BPC, PS, FI, and HR.
+- 📫 How to reach me: Drop me an email at svliyon@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/liyon-sv).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong background with over 16 years of experience in SAP development, including roles as a Senior Consultant at IQX Business Solutions and as a Technology Lead at Infosys Limited.
+
+### GitHub Stats
+
+[![Liyon SV's GitHub stats](https://github-readme-stats.vercel.app/api?username=leontoys&show_icons=true&theme=dark)](https://github.com/leontoys)
