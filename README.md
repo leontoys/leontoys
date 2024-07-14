@@ -3,7 +3,7 @@
 I'm a SAP Full Stack Developer based in NSW. Here's a bit about me:
 
 - 🔭 I’m currently working on enhancing my skills in UI5, Fiori, and JavaScript-ES6+.
-- 🌱 I’m currently learning advanced techniques in ABAP RESTful Application Programming Model (RAP) and SAP Cloud Platform.
+- 🌱 I’m currently learning advanced techniques in ABAP RESTful Application Programming Model (RAP) and SAP Cloud Application Programming Model (CAP)
 - 👯 I’m looking to collaborate on projects related to SAP development and front-end technologies.
 - 💬 Ask me about SAP development, UI5, Fiori, ABAP, and anything related to SAP modules like SD, MM, PPM, BPC, PS, FI, and HR.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/liyon-sv).
